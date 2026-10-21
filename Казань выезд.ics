@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DEMHA FUTURE//ICS Generator//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mvgs1nqo-6msm045ti8g@demhafuture.com
+DTSTAMP:20261020T142708Z
+DTSTART:20261101T080000Z
+DTEND:20261101T120000Z
+SUMMARY:Образовательный фестиваль «Летово»
+DESCRIPTION:Формат: интенсив\, мастер-классы для детей и преподавателей\, н
+ етворкинг\, панельная дискуссия\, практические сессии.\nКонтент: теория + 
+ разбор кейсов + живая практика\nКомьюнити: знакомство с единомышленниками.
+ \nСамые активные участники мастерских получат призы!
+LOCATION:Центр уникального мастерства г. Казани\, Московская\, 2
+URL:https://letovo.ru/kazan
+END:VEVENT
+END:VCALENDAR
